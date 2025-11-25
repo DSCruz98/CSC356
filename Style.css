@@ -1,38 +1,65 @@
-body{
-    background-color: rgb(209, 86, 3);
+body {
+  background-color: orangered;
 }
 
-header{
-margin: 20px;
+header {
+  margin: 20px;
 }
 
-main{
-    margin: 30px;
+main {
+  margin: 30px;
 }
 
-nav a{ 
-    background-color: blue;
-    color: rgb(84, 211, 0);
-    padding: 10px;
-    margin: 10px;
-    border-radius: 15px;
+nav a {
+  background-color: blue;
+  color: lime;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
 }
 
-.error{
-    color: brown;
-    padding: 10px;
+nav {
+  background-color: black;
+  padding: 15px;
+  max-width: fit-content;
+  border-radius: 15px;
 }
 
-input{
-    margin-left: 40px;
-    display: block;
+.error {
+  color: brown;
+  padding: 10px;
 }
 
-label{
-    margin-left: 40px;
+input {
+  margin-left: 40px;
+  display: block;
 }
 
-.logo{
-    max-width: 500px;
-    max-height: 500px;
+label {
+  margin-left: 40px;
+}
+
+.logo {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+#divCountdown {
+  background-color: blue;
+  color: lime;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  font-size: 25pt;
+  max-width: fit-content;
+}
+
+#divCountdownMessage {
+  background-color: blue;
+  color: lime;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  font-size: 25pt;
+  max-width: fit-content;
 }

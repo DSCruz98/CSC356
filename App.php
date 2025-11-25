@@ -11,7 +11,7 @@
     <header>
         <?php include "menu.php"; ?>
         <h1>
-            Mars Tourism
+            Mars Tourism - Pilot Application
         </h1>
     </header>
 
